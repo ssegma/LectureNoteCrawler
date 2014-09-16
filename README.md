@@ -17,7 +17,7 @@ $ javac ./src/com/goznauk/Main.java ./src/com/goznauk/HttpDownloader.java
 
 
 
-* How to run in console
+How to run in console
 ---------------------------------------
 ```sh
 $ java com.goznauk.Main
