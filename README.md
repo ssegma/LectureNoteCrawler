@@ -4,7 +4,11 @@ LectureNoteCrawler
 Get all LectureNotes by Url!
 
 
-How to compile it without eclipse
+
+
+
+
+How to compile it in console
 --------------------------------------
 
 ```sh
